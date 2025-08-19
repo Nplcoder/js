@@ -1,0 +1,9 @@
+/* const nameAndNumberList = [['Bikash', 25], ['Pawan', 35], ['hera', 33]] */
+
+const ticTacToe = [
+    ['X', null, null], 
+    [null, null, 'O'], 
+    ['O', null, 'X']
+]
+
+const hello = ticTacToe[0]
