@@ -5,3 +5,4 @@ const sum = nums.reduce((accumulator, current, i) => {
     // console.log(accumulator);
     return accumulator * current
 }, 0)
+

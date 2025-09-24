@@ -17,23 +17,23 @@ const capitalMonths = months.map((month, index, array) => {
 //     return month.toLocaleLowerCase().includes('m')
 //   })
 
-const filteredMonths = months.filter((month, index, array) => {
-    // console.log(month.toLocaleLowerCase().includes('m'))
-    // console.log(array);
-    return false
-  })
+// const filteredMonths = months.filter((month, index, array) => {
+//     console.log(month.toLocaleLowerCase().includes('m'))
+//     console.log(array);
+//     return false
+//   })
 
-const filteredMonths = months.filter((month, index, array) => {
-    // console.log(month.toLocaleLowerCase().includes('m'))
-    // console.log(array);
-    return month.length >= 5
-  })
+// const filteredMonths = months.filter((month, index, array) => {
+//     // console.log(month.toLocaleLowerCase().includes('m'))
+//     // console.log(array);
+//     return month.length >= 5
+//   })
 
-const filteredMonths = months.filter((month, index, array) => {
-    // console.log(month.toLocaleLowerCase().includes('m'))
-    // console.log(array);
-    return month.length >= 5
-  })
+// const filteredMonths = months.filter((month, index, array) => {
+//     // console.log(month.toLocaleLowerCase().includes('m'))
+//     // console.log(array);
+//     return month.length >= 5
+//   })
 
 
 

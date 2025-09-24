@@ -7,6 +7,7 @@ const result = document.querySelector(".result");
 const userScore = document.querySelector(".user-score");
 const computerScore = document.querySelector(".computer-score");
 const steps = document.querySelectorAll(".step");
+
 // Start button enables game
 const startBtn = document.querySelector(".start-btn");
 
@@ -15,8 +16,8 @@ paperBtn.disabled = true;
 scissorsBtn.disabled = true;
 
 let gameStarted = false;
-let round = 0;
-const totalRounds = 10;
+// let round = 0;
+// const totalRounds = 10;
 
 rockIcon = "🪨";
 paperIcon = "🖐️";

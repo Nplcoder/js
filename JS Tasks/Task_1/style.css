@@ -1,0 +1,11 @@
+.mouseEvent{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    color: aliceblue;
+    border-radius: 8px;
+}
